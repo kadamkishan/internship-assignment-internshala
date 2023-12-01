@@ -4,7 +4,7 @@ function Tours({tours,removeTour}){
     return(
         <div className="container">
             <div className="title">
-                <h2>Plan with Love</h2>
+                <h2>Course with Love</h2>
             </div>   
             <div className="cards">
                 {
